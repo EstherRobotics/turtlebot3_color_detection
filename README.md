@@ -1,7 +1,5 @@
 # turtlebot3_color_detection
 
-# TFM_Multiview_3D_Reconstruction
-
 ## Table Of Contents
 
 * [Overview](#-overview)
