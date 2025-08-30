@@ -40,7 +40,8 @@ This repository contains a ROS application that uses OpenCV to detect a specific
 
 ## 🔧 Parameters
 
-All the parameters are defined within the code. You can change the color defined for detection also the ranges of pixels for color detection and set up different velocities to see other behaviours of the robot movement. 
+All the parameters are defined within the code. 
+You can change the `color` to detect, adjust the `pixel ranges` used for color recognition, and configure different `velocities` to observe how the robot’s movement behavior changes.
 
 ## 🚀 Usage
 
@@ -49,8 +50,7 @@ Launch the Gazebo simulation with turtlebot3:
 roslaunch color_detection color_detection.launch
 ```
 
-Then you could run the code by running: 
-
+After that, you can execute the code with:
 ```bash
 python color_detection.py 
 ```
