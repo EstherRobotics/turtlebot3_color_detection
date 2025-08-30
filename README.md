@@ -62,10 +62,11 @@ As a result, the robot will rotate to identify the color specified in the code u
 
 ## Author
 
-* **Esther Vera** -
-* [Personal Github](https://github.com/EstherRobotics)
-* [ICAERUS Github](https://github.com/ICAERUS-EU/UC1_Crop_Monitoring)
-* [LinkedIn](https://www.linkedin.com/in/estherverarobotics/) 
+**Esther Vera Moreno**
+ * [Personal Github](https://github.com/EstherRobotics)
+ * [ICAERUS Github](https://github.com/ICAERUS-EU/UC1_Crop_Monitoring)
+ * [Medium Projects](https://medium.com/@esthervera99)
+ * [LinkedIn](https://www.linkedin.com/in/estherverarobotics/) 
 
 
 
